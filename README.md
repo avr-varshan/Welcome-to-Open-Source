@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/avr-varshan">
+                    <img src="https://avatars.githubusercontent.com/u/110455374?v=4" width="100px;" alt="Varshan A V R"/>
+                    <br />
+                    <sub><b>Varshan A V R</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
